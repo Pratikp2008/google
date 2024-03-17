@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google Calendar Example</title>
+    <style>
+      #calendar {
+        width: 800px;
+        height: 600px;
+        border: 1px solid #777;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Google Calendar</h1>
+    <iframe src="https://calendar.google.com/calendar/embed?src=YOUR_CALENDAR_ID" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+  </body>
+</html>
